@@ -18,6 +18,16 @@ header {
     padding: 10px;
 }
 
+header > div {
+    cursor: pointer;
+}
+
+header > div:hover {
+    cursor: pointer;
+    background: blue;
+
+}
+
 footer {
     background: gray;
     text-align: center;
